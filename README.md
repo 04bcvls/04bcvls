@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @04bcvls
 - 👀 I’m interested in Web/Software Development and UI Design
-- 🌱 I’m currently taking Java Programming, with some knowledge in C# and Windows Forms.
+- 🌱 I’m delving through Java Programming, with basic knowledge in C# and Windows Forms.
 - 💞️ I’m looking for a collaborative and open-space community.
 
 <!---
